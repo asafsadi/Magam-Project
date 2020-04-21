@@ -1,0 +1,431 @@
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\MAGAM.dll.config
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\MAGAM.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\MAGAM.pdb
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\csc.exe
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\csc.exe.config
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\csc.rsp
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\csi.exe
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\csi.exe.config
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\csi.rsp
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.AppContext.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Console.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Security.Claims.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\vbc.exe
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\vbc.exe.config
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\vbc.rsp
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\Antlr3.Runtime.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\Newtonsoft.Json.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Net.Http.Formatting.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Helpers.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Http.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Http.WebHost.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Mvc.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Optimization.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Razor.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.WebPages.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\WebGrease.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\Newtonsoft.Json.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Net.Http.Formatting.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Helpers.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Http.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Http.WebHost.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Mvc.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Optimization.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.Razor.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.WebPages.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\Antlr3.Runtime.pdb
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\obj\Debug\MAGAM.csprojAssemblyReference.cache
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\obj\Debug\MAGAM.csproj.CoreCompileInputs.cache
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\obj\Debug\MAGAM.csproj.CopyComplete
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\obj\Debug\MAGAM.dll
+C:\Users\Carmel Soffer\Desktop\פרוייקט שיפר מגם\MAGAM\MAGAM\obj\Debug\MAGAM.pdb
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\MAGAM.dll.config
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\MAGAM.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\MAGAM.pdb
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\csc.exe
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\csc.exe.config
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\csc.rsp
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\csi.exe
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\csi.exe.config
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\csi.rsp
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.AppContext.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Console.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Security.Claims.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\vbc.exe
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\vbc.exe.config
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\vbc.rsp
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\Antlr3.Runtime.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\Newtonsoft.Json.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Net.Http.Formatting.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Helpers.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Http.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Http.WebHost.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Mvc.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Optimization.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Razor.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.WebPages.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\WebGrease.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\Newtonsoft.Json.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Net.Http.Formatting.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Helpers.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Http.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Http.WebHost.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Mvc.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Optimization.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.Razor.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.WebPages.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\Antlr3.Runtime.pdb
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\obj\Debug\MAGAM.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\obj\Debug\MAGAM.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\obj\Debug\MAGAM.csproj.CopyComplete
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\obj\Debug\MAGAM.dll
+C:\Users\Win10\Desktop\MAGAM\MAGAM\MAGAM\obj\Debug\MAGAM.pdb
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM\MAGAM\MAGAM\obj\Debug\MAGAM.csprojAssemblyReference.cache
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\MAGAM.dll.config
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\MAGAM.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\MAGAM.pdb
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\csc.exe
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\csc.exe.config
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\csc.rsp
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\csi.exe
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\csi.exe.config
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\csi.rsp
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.AppContext.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Console.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.IO.Compression.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Security.Claims.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.ValueTuple.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\vbc.exe
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\vbc.exe.config
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\vbc.rsp
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\VBCSCompiler.exe
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\Antlr3.Runtime.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\Newtonsoft.Json.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Net.Http.Formatting.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Helpers.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Http.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Http.WebHost.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Mvc.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Optimization.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Razor.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.WebPages.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.WebPages.Razor.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\WebGrease.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\Newtonsoft.Json.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Net.Http.Formatting.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Helpers.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Http.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Http.WebHost.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Mvc.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Optimization.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.Razor.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.WebPages.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Web.WebPages.Razor.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\Antlr3.Runtime.pdb
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\obj\Debug\MAGAM.csproj.CoreCompileInputs.cache
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\obj\Debug\MAGAM.csproj.CopyComplete
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\obj\Debug\MAGAM.dll
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\obj\Debug\MAGAM.pdb
+C:\Users\asafs\Downloads\MAGAM (1)\MAGAM - Copy\MAGAM\MAGAM\obj\Debug\MAGAM.csprojAssemblyReference.cache
+D:\fixed proj magam\MAGAM\MAGAM\bin\MAGAM.dll.config
+D:\fixed proj magam\MAGAM\MAGAM\bin\MAGAM.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\MAGAM.pdb
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\csc.exe
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\csc.exe.config
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\csc.rsp
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\csi.exe
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\csi.exe.config
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\csi.rsp
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\Microsoft.Managed.Core.targets
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.AppContext.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Collections.Immutable.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Console.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.IO.Compression.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.IO.FileSystem.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.IO.Pipes.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Reflection.Metadata.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Security.AccessControl.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Security.Claims.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Security.Principal.Windows.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.ValueTuple.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Xml.XmlDocument.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Xml.XPath.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\vbc.exe
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\vbc.exe.config
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\vbc.rsp
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\VBCSCompiler.exe
+D:\fixed proj magam\MAGAM\MAGAM\bin\roslyn\VBCSCompiler.exe.config
+D:\fixed proj magam\MAGAM\MAGAM\bin\Antlr3.Runtime.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\Microsoft.Web.Infrastructure.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\Newtonsoft.Json.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Diagnostics.DiagnosticSource.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Net.Http.Formatting.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Helpers.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Http.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Http.WebHost.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Mvc.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Optimization.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Razor.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.WebPages.Deployment.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.WebPages.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.WebPages.Razor.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\WebGrease.dll
+D:\fixed proj magam\MAGAM\MAGAM\bin\Newtonsoft.Json.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Net.Http.Formatting.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Helpers.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Http.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Http.WebHost.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Mvc.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Optimization.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.Razor.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.WebPages.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.WebPages.Deployment.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Web.WebPages.Razor.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\Antlr3.Runtime.pdb
+D:\fixed proj magam\MAGAM\MAGAM\bin\System.Diagnostics.DiagnosticSource.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\fixed proj magam\MAGAM\MAGAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\fixed proj magam\MAGAM\MAGAM\obj\Debug\MAGAM.csproj.CoreCompileInputs.cache
+D:\fixed proj magam\MAGAM\MAGAM\obj\Debug\MAGAM.csproj.CopyComplete
+D:\fixed proj magam\MAGAM\MAGAM\obj\Debug\MAGAM.dll
+D:\fixed proj magam\MAGAM\MAGAM\obj\Debug\MAGAM.pdb
+D:\fixed proj magam\MAGAM\MAGAM\obj\Debug\MAGAM.csprojAssemblyReference.cache
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\MAGAM.dll.config
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\MAGAM.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\MAGAM.pdb
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\csc.exe
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\csc.exe.config
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\csc.rsp
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\csi.exe
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\csi.exe.config
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\csi.rsp
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\Microsoft.Managed.Core.targets
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.AppContext.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Collections.Immutable.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Console.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.IO.Compression.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.IO.FileSystem.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.IO.Pipes.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Reflection.Metadata.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Security.AccessControl.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Security.Claims.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Security.Principal.Windows.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.ValueTuple.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Xml.XmlDocument.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Xml.XPath.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\vbc.exe
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\vbc.exe.config
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\vbc.rsp
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\VBCSCompiler.exe
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\roslyn\VBCSCompiler.exe.config
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\Antlr3.Runtime.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\Microsoft.Web.Infrastructure.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\Newtonsoft.Json.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Diagnostics.DiagnosticSource.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Net.Http.Formatting.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Helpers.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Http.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Http.WebHost.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Mvc.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Optimization.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Razor.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.WebPages.Deployment.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.WebPages.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.WebPages.Razor.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\WebGrease.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\Newtonsoft.Json.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Net.Http.Formatting.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Helpers.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Http.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Http.WebHost.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Mvc.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Optimization.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.Razor.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.WebPages.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.WebPages.Deployment.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Web.WebPages.Razor.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\Antlr3.Runtime.pdb
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\System.Diagnostics.DiagnosticSource.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\obj\Debug\MAGAM.csproj.CoreCompileInputs.cache
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\obj\Debug\MAGAM.csproj.CopyComplete
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\obj\Debug\MAGAM.dll
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\obj\Debug\MAGAM.pdb
+D:\fixed proj magam\Finale Project\MAGAM\MAGAM\obj\Debug\MAGAM.csprojAssemblyReference.cache
